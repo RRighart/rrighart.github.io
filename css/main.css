@@ -1,3 +1,8 @@
+@media screen and (min-width:280px) and (max-width:800px) {
+body{font-size:0.7em;}
+sidebar{display:none;}
+}
+
 body {
     margin: 60px auto;
     width: 70%;
